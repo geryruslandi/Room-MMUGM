@@ -1,0 +1,21 @@
+.clockpicker{
+    max-width: 100px;
+}
+#tanggal,#tanggalModal{
+    max-width: 100px;
+}
+
+
+.dashboardimg{
+    border-radius: 1em;
+    margin-right: 20px;
+    max-width: 250px;
+    height: auto;
+}
+.dashboardimg:hover{
+    background-color: white;
+}
+
+#page-wrapper{
+    overflow: hidden;
+}
